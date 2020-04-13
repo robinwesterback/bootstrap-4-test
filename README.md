@@ -2,7 +2,7 @@
 
 Welcome!
 
-You can find the link to the website [here](https://robinwesterback.github.io/bootstrap-4-test/)
+You can find the link to the website [here](https://robinwesterback.github.io/bootstrapping-your-first-idea/)
 
 The website is made using HTML, CSS and Bootstrap. 
 
